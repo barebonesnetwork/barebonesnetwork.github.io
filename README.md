@@ -2,4 +2,6 @@
 The repo for the BareBones Network.
 
 The purpose of the BareBones Network is to create a large network that replicates the very early days of the Internet.
-This repo contains the source code for the entire network. 
+This repo contains the source code for the entire network.
+
+If you would like to try it out, you can go [here.](barebonesnetwork.github.io)
